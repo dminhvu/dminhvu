@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**helsinki2103/helsinki2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dminhvu/dminhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![helsinki2103's github stats](https://github-readme-stats.vercel.app/api?username=helsinki2103&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helsinki2103)](https://github.com/helsinki2103/)
+![dminhvu's github stats](https://github-readme-stats.vercel.app/api?username=dminhvu&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dminhvu)](https://github.com/dminhvu/)
