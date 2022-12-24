@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **dminhvu/dminhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor Count](https://profile-counter.glitch.me/dminhvu/count.svg)
+<h2 align="center">Hi there 👋</h2>
+<p align="center">
+  <a href="https://www.github.com/dminhvu" target="_blank" rel="noreferrer"
+    ><img
+      src="https://visitor-counter-badge.vercel.app/api/dminhvu"
+      <a
+      href="https://www.github.com/dminhvu"
+      target="_blank"
+      rel="noreferrer" /><img
+      src="https://img.shields.io/github/followers/dminhvu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
+  /></a>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=dminhvu&label=Profile%20views&color=blueviolet&style=flat"
+    alt="Minh Vu"
+  />
+</p>
+
 
 ![dminhvu's github stats](https://github-readme-stats.vercel.app/api?username=dminhvu&show_icons=true&theme=radical)
 
