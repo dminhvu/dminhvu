@@ -13,27 +13,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Hi there 👋</h2>
-<p align="center">
-  <a href="https://www.github.com/dminhvu" target="_blank" rel="noreferrer"
-    ><img
-      src="https://visitor-counter-badge.vercel.app/api/dminhvu"
-      <a
-      href="https://www.github.com/dminhvu"
-      target="_blank"
-      rel="noreferrer" /><img
-      src="https://img.shields.io/github/followers/dminhvu?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
-  /></a>
-</p>
+# Welcome to Minh Vu's profile! 👋
+---
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=dminhvu&label=Profile%20views&color=blueviolet&style=flat"
-    alt="Minh Vu"
-  />
-</p>
+## 🚀 About Me
 
+🕵️‍♂ My name is Minh Vu, I'm from Vietnam 🇻🇳 and working as a Software Engineer for a Singapore 🇸🇬 company.
 
-![dminhvu's github stats](https://github-readme-stats.vercel.app/api?username=dminhvu&show_icons=true&theme=radical)
+💻 My job mainly involves Enterprise Software, especially in the [Elastic Stack](https://elastic.co).
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dminhvu)](https://github.com/dminhvu/)
+☀️ In my free time, I love doing side projects such as building AI applications. My most recent project is [Formularizer](https://formularizer.com).
+
+📘 I also write a blog to share my knowledge and experience in Elastic Stack, Python, NextJs, etc. at [WiseCode Blog](https://wisecode.blog).
+
+📫 You can reach me via [LinkedIn](https://linkedin.com/in/dminhvu02), [email](minh.vu@entiis.com).
+
+## 👨‍💻 Technical Skills
+
+I have deep experience in:
+- Elastic Stack (Elasticsearch, Kibana, Logstash, Beats)
+- Python with FastAPI, Flask
+- ReactJs, NextJs with TailwindCSS
+- AWS
+- Databases and vector databases
+
+## 🏫 Education
+
+- FPT University, Sep 2020 - Aug 2024
+  - B.Sc. in Artificial Intelligence
+  - Full Tuition Scholarship
+  - GPA: 9.1/10
