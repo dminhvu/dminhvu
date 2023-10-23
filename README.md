@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 
 # Welcome to Minh Vu's profile! 👋
 ---
+![](https://komarev.com/ghpvc/?username=dminhvu&color=blueviolet&label=Profile+Visits)
+---
 
 ## 🚀 About Me
 
@@ -43,3 +45,5 @@ I have deep experience in:
   - B.Sc. in Artificial Intelligence
   - Full Tuition Scholarship
   - GPA: 9.1/10
+
+![](https://hit.yhype.me/github/profile?user_id=40064060)
