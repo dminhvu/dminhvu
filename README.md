@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 ☀️ In my free time, I love doing side projects such as building AI applications. My most recent project is [Formularizer](https://formularizer.com).
 
-📘 I also write a blog to share my knowledge and experience in Elastic Stack, Python, NextJs, etc. at [WiseCode Blog](https://wisecode.blog).
+📘 I also write a blog to share my knowledge and experience in Elastic Stack, Python, NextJs, etc. at [dminhvu.com](https://dminhvu.com).
 
-📫 You can reach me via [LinkedIn](https://linkedin.com/in/dminhvu02), [email](minh.vu@entiis.com).
+📫 You can reach me via [LinkedIn](https://linkedin.com/in/dminhvu02), [email](dminhvu.work@gmail.com).
 
 ## 👨‍💻 Technical Skills
 
