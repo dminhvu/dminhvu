@@ -20,30 +20,33 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-🕵️‍♂ My name is Minh Vu, I'm from Vietnam 🇻🇳 and working as a Software Engineer for a Singapore 🇸🇬 company.
+🕵️‍♂ My name is Minh, I'm from Vietnam 🇻🇳 and working as a Software Engineer for an Australian 🇦🇺 company.
 
-💻 My job mainly involves Enterprise Software, especially in the [Elastic Stack](https://elastic.co).
+💻 My job mainly involves AI development, especially building Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) applications.
 
-☀️ In my free time, I love doing side projects such as building AI applications. My most recent project is [Formularizer](https://formularizer.com).
+☀️ In my free time, I love building side projects related to AI applications. My most recent project is [Formularizer](https://formularizer.com), which works as an AI assistant for Excel & Google Sheets.
 
-📘 I also write a blog to share my knowledge and experience in Elastic Stack, Python, NextJs, etc. at [dminhvu.com](https://dminhvu.com).
+📘 I also write a blog to share my knowledge and experience in NextJs, Python, etc. at [dminhvu.com](https://dminhvu.com). I got a blog post with 12k+ views about [Next.js SEO](https://dminhvu.com/post/nextjs-seo).
 
-📫 You can reach me via [LinkedIn](https://linkedin.com/in/dminhvu02), [email](dminhvu.work@gmail.com).
+📫 You can reach me via [LinkedIn](https://linkedin.com/in/dminhvu02), or [email](dminhvu.work@gmail.com).
 
 ## 👨‍💻 Technical Skills
 
 I have deep experience in:
-- Elastic Stack (Elasticsearch, Kibana, Logstash, Beats)
-- Python with FastAPI, Flask
-- ReactJs, NextJs with TailwindCSS
-- AWS
-- Databases and vector databases
+- Python with FastAPI, Litestar
+- NextJs with TailwindCSS
+- AWS services
+- Databases: MongoDB, Supabase (PostgreSQL), Firebase
+- Vector databases: Pinecone, Weaviate
+- Elastic Stack (Elasticsearch, Kibana, Logstash, Beats), for logging, monitoring, and searching
+- Large Language Models: training from scratch or building advanced applications for enterprises, whatever is fine
 
 ## 🏫 Education
 
 - FPT University, Sep 2020 - Aug 2024
   - B.Sc. in Artificial Intelligence
   - Full Tuition Scholarship
-  - GPA: 9.1/10
+  - GPA: 8.94/10
+  - Graduation Thesis: 8.8/10, training a Multimodal Language Model from scratch for the Vietnamese language
 
 ![](https://hit.yhype.me/github/profile?user_id=40064060)
