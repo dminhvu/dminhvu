@@ -1,52 +1,33 @@
-<!--
-**dminhvu/dminhvu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-# Welcome to Minh Vu's profile! 👋
+# Welcome to Minton's Profile! 👋
 ---
 ![](https://komarev.com/ghpvc/?username=dminhvu&color=blueviolet&label=Profile+Visits)
 ---
-
 ## 🚀 About Me
+I'm Dinh Minh Vu (call me Minton), a Software Engineer from Vietnam 🇻🇳 working for an Australian 🇦🇺 company. I'm currently pursuing an M.Sc. in Computer Science at Universität Passau, Germany (Oct 2025 – Apr 2027). I specialize in AI development and automation solutions, focusing on Large Language Models (LLMs), Retrieval-Augmented Generation (RAG) applications, and the finance domain.
 
-🕵️‍♂ My name is Minh, I'm from Vietnam 🇻🇳 and working as a Software Engineer for an Australian 🇦🇺 company.
+In my free time, I build AI-driven side projects like [Formularizer](https://formularizer.com), an AI assistant for Excel and Google Sheets with **20k+ users** and **2k+ monthly active users (MAU)**. I also share insights on Next.js, Python, and more through my blog at [dminhvu.com](https://dminhvu.com), with a popular post on [Next.js SEO](https://dminhvu.com/post/nextjs-seo) garnering 30k+ views.
 
-💻 My job mainly involves AI development, especially building Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG) applications.
-
-☀️ In my free time, I love building side projects related to AI applications. My most recent project is [Formularizer](https://formularizer.com), which works as an AI assistant for Excel & Google Sheets.
-
-📘 I also write a blog to share my knowledge and experience in NextJs, Python, etc. at [dminhvu.com](https://dminhvu.com). I got a blog post with 12k+ views about [Next.js SEO](https://dminhvu.com/post/nextjs-seo).
-
-📫 You can reach me via [LinkedIn](https://linkedin.com/in/dminhvu02), or [email](dminhvu.work@gmail.com).
+📫 Connect with me on [LinkedIn](https://linkedin.com/in/dminhvu02) or via [email](mailto:dminhvu.work@gmail.com).
 
 ## 👨‍💻 Technical Skills
-
-I have deep experience in:
-- Python with FastAPI, Litestar
-- NextJs with TailwindCSS
-- AWS services
-- Databases: MongoDB, Supabase (PostgreSQL), Firebase
-- Vector databases: Pinecone, Weaviate
-- Elastic Stack (Elasticsearch, Kibana, Logstash, Beats), for logging, monitoring, and searching
-- Large Language Models: training from scratch or building advanced applications for enterprises, whatever is fine
+- **Programming**: Python (FastAPI), Next.js (TailwindCSS)
+- **Cloud & Databases**: AWS, DynamoDB, MongoDB, Supabase (PostgreSQL), Firebase
+- **Vector Databases**: Pinecone, Weaviate
+- **AI/ML**: LLMs (training/fine-tuning & enterprise applications), LangChain/LangGraph, RAG, OpenAI/Gemini APIs (finance domain)
+- **Testing**: pytest
+- **Payments**: Stripe, LemonSqueezy
+- **Monitoring**: Elastic Stack (Elasticsearch, Kibana, Logstash, Beats), Langfuse, Sentry
 
 ## 🏫 Education
-
-- FPT University, Sep 2020 - Aug 2024
-  - B.Sc. in Artificial Intelligence
-  - Full Tuition Scholarship
-  - GPA: 8.94/10
-  - Graduation Thesis: 8.8/10, training a Multimodal Language Model from scratch for the Vietnamese language
+- **M.Sc. in Computer Science** (Expected)  
+  Universität Passau, Germany  
+  Oct 2025 – Apr 2027
+- **B.Sc. in Artificial Intelligence**  
+  FPT University, Vietnam  
+  Sep 2020 – Aug 2024  
+  - Full Tuition Scholarship  
+  - GPA: 8.94/10 (Top 10 of Graduating Batch 2024)  
+  - Thesis: 8.8/10 (Multimodal Language Model for Vietnamese)  
+- **IELTS**: 7.5 (2024)
 
 ![](https://hit.yhype.me/github/profile?user_id=40064060)
