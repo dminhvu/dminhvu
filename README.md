@@ -21,7 +21,7 @@ In my free time, I build AI-driven side projects like [Formularizer](https://for
 ## 🏫 Education
 - **M.Sc. in Computer Science** (Expected)  
   Universität Passau, Germany  
-  Oct 2025 – Apr 2027
+  Oct 2025 – Oct 2027
 - **B.Sc. in Artificial Intelligence**  
   FPT University, Vietnam  
   Sep 2020 – Aug 2024  
