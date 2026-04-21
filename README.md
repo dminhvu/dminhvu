@@ -3,6 +3,7 @@
 ## About Me
 I'm **Dinh Minh Vu (Minton)** — a **Software Engineer** focused on **backend systems, applied ML (LLM integrations/RAG)**, and **finance workflows**.
 
+- Bulding **[workingstudentjobs.de](https://www.workingstudentjobs.de)**
 - **Software Engineer (Working Student) @ [Flowzar GmbH](https://flowzar.com)** (Munich, Germany) — building a FinTech cash flow forecasting platform (FastAPI, Next.js, PostgreSQL).
 - Previously **Software Engineer @ Coder Trove** — worked on **[Grapple AI](https://ai.grapple.com.au)** (AI-powered invoice financing).
 
