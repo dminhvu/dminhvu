@@ -3,9 +3,9 @@
 
 ## About Me
 I'm **Dinh Minh Vu (Minton)** — a **Software Engineer** with a competitive programming
-background (**Third Prize, ICPC Asia Hanoi Regional**; **Second Prize, Vietnam Olympiad in
-Informatics**), 4+ years across backend, distributed systems, and applied ML — now moving into
-**compilers, program analysis, and runtime systems**.
+background (**Third Prize, ICPC Asia Hanoi Regional**, ranked 32/126; **Second Prize, Vietnam
+Olympiad in Informatics**), 4+ years across backend, distributed systems, and applied ML — now
+moving into **compilers, program analysis, and runtime systems**.
 
 - Currently deep in compiler construction and static analysis, building toward LLVM/MLIR:
   a custom `torch.compile` backend → an elementwise fusion pass with Triton codegen → a real
@@ -14,13 +14,12 @@ Informatics**), 4+ years across backend, distributed systems, and applied ML —
   students in Germany find English-speaking working student and internship roles.
 
 ## Education
-- **M.Sc. Computer Science — University of Passau, Germany** (Oct 2025 – Present)
-  Compiler Construction · Software Analysis · Virtual Machines & Runtime Systems ·
-  Efficient Algorithms · Parallel Programming · Distributed Algorithms ·
-  Search-Based Software Engineering · Multimedia Databases (vector search) ·
-  Scalable Database Systems
-- **B.Sc. Information Technology — FPT University, Vietnam** (Sep 2020 – Sep 2024)
-  **GPA 8.94/10** · Full Scholarship · **Top 10 of 900+ students**
+- **M.Sc. Computer Science** — University of Passau, Germany · Oct 2025 – Present
+  - Relevant coursework: Compiler Construction · Software Analysis · Virtual Machines & Runtime
+    Systems · Efficient Algorithms · Parallel Programming · Distributed Algorithms ·
+    Search-Based Software Engineering · Multimedia Databases (vector search) · Scalable Database Systems
+- **B.Sc. Information Technology** — FPT University, Vietnam · Sep 2020 – Sep 2024
+  - **GPA 8.94/10** · Full Scholarship · **Top 10 of 900+ students**
 
 ## Experience
 - **Software Engineer (Working Student) @ [Flowzar GmbH](https://flowzar.com)**, Munich
@@ -34,12 +33,14 @@ Informatics**), 4+ years across backend, distributed systems, and applied ML —
   5 Elastic Stack deployments (Filebeat + Logstash), normalizing heterogeneous application,
   system, and network logs into one consistent schema for a platform handling **40TB of logs/month**.
 
-Side project: **[Formularizer](https://formularizer.com)** — AI-powered spreadsheet formula
-generator (**20,000+ users**, **2,000+ MAU**).
+## Projects
+- **[workingstudentjobs.de](https://www.workingstudentjobs.de)** (2026 – Present) — job platform
+  for international students in Germany. Currently active.
+- **Formularizer** (Jan 2023 – Aug 2026, sunset) — AI-powered spreadsheet formula generator;
+  grew to **20,000+ users** and **2,000+ MAU** with multi-provider LLM routing, cost-optimized
+  fallback, and Stripe-integrated payments.
 
-**GitHub:** [github.com/dminhvu](https://github.com/dminhvu)
-**LinkedIn:** [linkedin.com/in/dminhvu02](https://www.linkedin.com/in/dminhvu02/)
-**Blog:** [dminhvu.com](https://dminhvu.com)
+**GitHub:** [github.com/dminhvu](https://github.com/dminhvu) · **LinkedIn:** [linkedin.com/in/dminhvu02](https://www.linkedin.com/in/dminhvu02/) · **Blog:** [dminhvu.com](https://dminhvu.com)
 
 ## Tech Stack
 - **Languages:** C++, Python, Java, TypeScript/JavaScript
